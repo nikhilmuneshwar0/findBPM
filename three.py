@@ -55,7 +55,7 @@ def main():
     bpm_finder = SpotifyBPMFinder(client_id, client_secret)
 
     # Read tracks from mixer.txt
-    tracks = read_tracks_from_file('C:/dj/mixers.txt')
+    tracks = read_tracks_from_file('path/to/your/file.txt')
 
     # Store all track information
     track_info_list = []
