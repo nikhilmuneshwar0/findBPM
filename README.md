@@ -60,6 +60,10 @@ Highest BPM: 122 (Done to me)
 Average BPM: 100.0
 ```
 
+## Youtube Link
+
+https://youtu.be/Zd7r0r3s93k
+
 ## Features
 - ✨ Reads from exported Spotify playlists
 - 📊 Sorts tracks by BPM
