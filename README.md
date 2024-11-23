@@ -56,7 +56,7 @@ No.  Track Name                  Artist(s)               BPM
 
 Summary:
 Lowest BPM: 85 (Love Me)
-Highest BPM: 120 (Fear Of Heights)
+Highest BPM: 122 (Done to me)
 Average BPM: 100.0
 ```
 
