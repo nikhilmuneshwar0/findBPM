@@ -48,8 +48,8 @@ def read_tracks_from_file(filename: str) -> List[str]:
 
 def main():
     # Direct assignment of credentials
-    client_id = 'e9d4853f4a0545e5a226165efc00b848'
-    client_secret = '0133794eba5a4a959a475a92732f84bc'
+    client_id = 'enter_your_Client_ID'
+    client_secret = 'enter_your_Client_SECRET'
 
     # Initialize the BPM finder
     bpm_finder = SpotifyBPMFinder(client_id, client_secret)
